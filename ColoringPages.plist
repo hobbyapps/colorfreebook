@@ -154,8 +154,27 @@
 			<string>flower9</string>
 			<string>flower10</string>
 			<string>flower11</string>
-            <string>flower5</string>
-            <string>flower_U4_1</string>
+			<string>flower5</string>
+			<string>flower_U4_1</string>
+			<string>flower_U4_2</string>
+			<string>flower_U4_3</string>
+			<string>flower_U4_4</string>
+			<string>flower_U4_5</string>
+			<string>flower_U4_6</string>
+			<string>flower_U4_7</string>
+			<string>flower_U4_8</string>
+			<string>flower_U4_9</string>
+			<string>flower_U4_10</string>
+			<string>flower_U4_11</string>
+			<string>flower_U4_12</string>
+			<string>flower_U4_13</string>
+			<string>flower_U4_14</string>
+			<string>flower_U4_15</string>
+			<string>flower_U4_16</string>
+			<string>flower_U4_17</string>
+			<string>flower_U4_18</string>
+			<string>flower_U4_19</string>
+			<string>flower_U4_20</string>
 		</array>
 		<key>packIcon</key>
 		<string>flowers</string>
